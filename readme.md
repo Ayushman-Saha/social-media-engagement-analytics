@@ -1,7 +1,3 @@
-Here’s the updated README with the **Requirements** and **Contact** sections removed:  
-
----
-
 # **Social Media Engagement Analytics Module**
 
 ## **Objective**
