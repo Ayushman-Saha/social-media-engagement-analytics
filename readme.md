@@ -5,6 +5,7 @@ Develop a basic analytics module utilizing **Langflow** and **DataStax Astra DB*
 
 ---
 *Demo Link* : https://youtu.be/a1oZvDuiCqU
+---
 *Deployed Link* : https://analyzesocmed.streamlit.app/
 ---
 
