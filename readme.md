@@ -4,6 +4,8 @@
 Develop a basic analytics module utilizing **Langflow** and **DataStax Astra DB** to analyze engagement data from mock social media accounts. This project demonstrates how workflow automation, database operations, and GPT integration can provide valuable insights into social media post performance.
 
 ---
+**Demo Link** : https://youtu.be/a1oZvDuiCqU
+---
 
 ## **Team Members**
 - **Ayushman Saha**  
